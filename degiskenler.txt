@@ -1,0 +1,4 @@
+Değişken veri tipleri
+int
+string
+float
